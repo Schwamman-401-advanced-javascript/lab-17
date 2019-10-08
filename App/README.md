@@ -8,10 +8,6 @@
 * [submission PR](https://github.com/Schwamman-401-advanced-javascript/lab-17/pull/1)
 * [travis](https://www.travis-ci.com/Schwamman-401-advanced-javascript/lab-17)
 
-
-#### Documentation
-
-
 ### Modules
 
 ### Setup
