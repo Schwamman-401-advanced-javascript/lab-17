@@ -7,7 +7,8 @@
     "test": "jest --verbose --coverage",
     "startServer": "node ./Server/server.js",
     "startLogger": "node ./Logger/logger.js",
-    "startApp": "node ./App/app.js"
+    "startApp": "node ./App/app.js",
+    "lint": "eslint ."
   },
   "author": "",
   "license": "MIT",
